@@ -24,7 +24,9 @@ This project showcases the creation of a 3D model of an aeroplane using Blender,
 ## Tools and Techniques
 
 **1. Blender:** Used for 3D modeling, texturing, and animation.
+
 **2. Keyframe Animation:** Enabled realistic motion sequences.
+
 **3. Material and Texture Mapping:** Applied to achieve a polished and lifelike appearance.
 
 ## Learning Outcomes
