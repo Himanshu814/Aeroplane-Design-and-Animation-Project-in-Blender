@@ -34,5 +34,4 @@ This project showcases the creation of a 3D model of an aeroplane using Blender,
 - Developed skills in animation, including keyframing and motion dynamics.
 - Enhanced understanding of texture mapping and material properties.
 
-![Uploading Screenshot (67).png…]()
 
